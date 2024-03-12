@@ -1,0 +1,150 @@
+Make,Model,Year,Rarity,Condition_Category,Selling_Price,Estimated_Daily_Rate,Kilometers_Driven
+Ford,Model T,1910,Common,Good,675,750,40929
+Mercer,Raceabout,1911,Rare,Good,801,890,54493
+Cadillac,Model 30,1912,Uncommon,Good,765,850,34000
+Stutz,Bearcat,1913,Rare,Good,684,760,139000
+Dodge,Model 30,1914,Common,Good,666,740,29000
+Packard,Twin Six,1915,Uncommon,Good,729,810,85609
+Hudson,Super Six,1916,Common,Good,774,860,59000
+Chevrolet,Series D,1917,Common,Good,675,750,65000
+Cadillac,Type 57,1918,Uncommon,Good,648,720,66000
+Pierce-Arrow,Model 31,1919,Rare,Good,711,790,54684
+Rolls,Royce Silver Ghost,1920,Rare,Excellent,720,800,78000
+Bentley,3 Litre,1921,Rare,Good,693,770,21000
+Lincoln,L-Series,1922,Common,Good,810,900,90000
+Bugatti,Type 23,1923,Rare,Good,801,890,87628
+Chrysler,Model B-70,1924,Common,Good,720,800,45000
+Alfa Romeo,RL,1925,Uncommon,Good,711,790,30788
+Mercedes-Benz,Model K,1926,Rare,Good,693,770,39524
+Ford,Model A,1927,Common,Good,783,870,140000
+Auburn,Aug-88,1928,Uncommon,Good,666,740,15409
+Cord,L-29,1929,Rare,Good,639,710,36502
+Cadillac,V-16,1930,Rare,Excellent,702,780,200000
+Duesenberg,Model J,1931,Very Rare,Excellent,783,870,70000
+Ford,V-8,1932,Common,Good,801,890,36701
+Pierce-Arrow,Silver Arrow,1933,Very Rare,Excellent,810,900,72000
+Packard,Twelve,1934,Rare,Good,792,880,40000
+Auburn,851 Speedster,1935,Rare,Excellent,747,830,47000
+Bugatti,Type 57SC,1936,Very Rare,Excellent,738,820,93500
+Cord,812,1937,Rare,Good,666,740,52000
+Alfa Romeo,8C,1938,Rare,Excellent,648,720,55429
+BMW,328,1939,Uncommon,Good,630,700,133000
+Cadillac,Series 62,1940,Common,Good,801,890,70000
+Lincoln,Continental,1941,Uncommon,Good,729,810,68000
+Willys,MB Jeep,1942,Common,Good,738,820,71000
+Tucker,Torpedo,1946,Very Rare,Excellent,774,860,121000
+Ferrari,125 S,1947,Very Rare,Excellent,684,760,107000
+Jaguar,XK120,1948,Rare,Good,630,700,51000
+Mercury,Eight,1949,Common,Good,675,750,13500
+Oldsmobile,Rocket 88,1950,Common,Good,720,800,13000
+Hudson,Hornet,1951,Uncommon,Good,801,890,81000
+Mercedes-Benz,300 SL,1952,Rare,Excellent,810,900,66889
+Chevrolet,Corvette,1953,Uncommon,Good,657,730,32000
+Ford,Thunderbird,1954,Common,Good,729,810,87001
+Mercedes,Benz 300 SL Gullwing,1955,Rare,Very Good,711,790,55000
+Ford,Thunderbird,1955,Uncommon,Very Good,702,780,4000
+Cadillac,Series 62,1955,Common,Good,765,850,27778
+Porsche,356 Speedster,1955,Rare,Good,711,790,5000
+BMW,507,1956,Rare,Excellent,720,800,72000
+Chevrolet,Bel Air,1957,Common,Very Good,693,770,21000
+Chevrolet,Bel Air,1957,Common,Good,684,760,59299
+Cadillac,Eldorado,1958,Uncommon,Good,630,700,75000
+Austin,Mini,1959,Common,Good,810,900,3413
+Chevrolet,Impala,1960,Common,Good,801,890,62000
+Jaguar,E-Type,1961,Rare,Very Good,747,830,105001
+Ferrari,250 GTO,1962,Very Rare,Excellent,729,810,89000
+Alfa,Romeo Giulia,1962,Rare,Very Good,711,790,21000
+Bentley,S3,1962,Rare,Very Good,630,700,50000
+Ford,Galaxie,1963,Common,Good,756,840,70687
+Aston,Martin DB5,1964,Rare,Good,765,850,104350
+Buick,Skylark,1964,Common,Very Good,774,860,150000
+Ford,Mustang,1965,Common,Excellent,801,890,81000
+Pontiac,Catalina,1965,Common,Good,810,900,89000
+Rolls,Royce Silver Shadow,1966,Rare,Excellent,666,740,35223
+Pontiac,GTO,1966,Common,Very Good,657,730,48000
+Honda,S800,1966,Rare,Good,774,860,60000
+Chevrolet,Impala,1967,Common,Good,765,850,7000
+Fiat,500,1967,Common,Good,792,880,47572
+Dodge,Dart,1967,Uncommon,Good,765,850,72727
+Dodge,Coronet,1967,Uncommon,Good,720,800,4708
+Volkswagen,Type 2 (Bus),1967,Uncommon,Good,630,700,55000
+Chevrolet,Camaro,1968,Common,Very Good,711,790,44198
+Mercedes-Benz,300SEL 6.3,1968,Rare,Excellent,693,770,35000
+Oldsmobile,442,1968,Rare,Excellent,792,880,63831
+Plymouth,Road Runner,1968,Common,Very Good,801,890,17540
+Dodge,Charger,1969,Common,Very Good,810,900,14000
+Citroen,DS,1970,Uncommon,Good,729,810,47000
+Plymouth,Barracuda,1970,Common,Good,783,870,75422
+Chevrolet,Chevelle,1970,Common,Good,756,840,67000
+Alfa,Romeo Montreal,1970,Rare,Very Good,765,850,79999
+Citroen,SM,1970,Rare,Good,720,800,5044
+Aston,Martin DBS,1970,Very Rare,Excellent,711,790,31601
+Lamborghini,Miura,1971,Very Rare,Good,639,710,70000
+Lancia,Fulvia,1971,Rare,Good,774,860,16000
+BMW,2002,1971,Uncommon,Very Good,756,840,31700
+De,Tomaso Pantera,1971,Rare,Very Good,684,760,76969
+Renault,Alpine A310,1971,Rare,Good,630,700,37000
+Volkswagen,Beetle,1972,Very Common,Poor,657,730,23000
+Datsun,240Z,1972,Rare,Good,684,760,59098
+Datsun,510,1972,Common,Good,774,860,142299
+Porsche,914,1973,Common,Good,801,890,75731
+Triumph,TR6,1973,Rare,Good,792,880,69627
+Maserati,Khamsin,1974,Very Rare,Excellent,711,790,49000
+Ford,Capri,1974,Common,Good,657,730,25700
+AMC,Pacer,1975,Uncommon,Good,783,870,80800
+Mercedes-Benz,450SEL 6.9,1975,Rare,Good,747,830,110896
+Maserati,Merak,1975,Rare,Very Good,765,850,62261
+Cadillac,Eldorado,1976,Uncommon,Good,756,840,27610
+Aston,Martin Lagonda,1976,Very Rare,Excellent,666,740,89219
+Triumph,Spitfire,1976,Uncommon,Good,711,790,6700
+Lada,Niva,1977,Uncommon,Good,810,900,51599
+Ferrari,308 GTS,1977,Very Rare,Excellent,801,890,37489
+Bentley,T-series,1977,Rare,Good,783,870,98000
+Chevrolet,El Camino,1978,Common,Good,657,730,25183
+BMW,M1,1978,Very Rare,Excellent,675,750,52100
+Jaguar,XJ6,1979,Common,Good,711,790,60000
+Ferrari,308 GTB,1980,Rare,Excellent,639,710,51000
+Renault,5 Turbo,1980,Rare,Very Good,720,800,70000
+Lotus,Esprit,1980,Rare,Excellent,630,700,95000
+Chevrolet,Corvette C3,1980,Common,Very Good,774,860,66346
+Ferrari,Mondial 8,1980,Very Rare,Excellent,756,840,69150
+DeLorean,DMC-12,1981,Very Rare,Excellent,747,830,31000
+Ferrari,512BB,1981,Very Rare,Excellent,801,890,49000
+Pontiac,Firebird,1982,Common,Good,711,790,63058
+Porsche,944,1982,Common,Good,720,800,22000
+Jeep,CJ-7,1982,Common,Good,765,850,73026
+Aston,Martin V8 Vantage,1983,Very Rare,Excellent,711,790,21762
+Oldsmobile,Cutlass,1983,Common,Good,657,730,29738
+Ferrari,Testarossa,1984,Rare,Excellent,666,740,16053
+Nissan,300ZX,1984,Common,Good,630,700,61665
+Land,Rover Defender,1985,Uncommon,Good,711,790,51000
+Porsche,928,1985,Uncommon,Good,765,850,34820
+Jaguar,XJS,1986,Common,Good,747,830,12000
+Mercedes-Benz,560SEL,1986,Common,Very Good,711,790,32287
+Peugeot,205 GTI,1988,Rare,Good,666,740,121134
+Porsche,911,1990,Uncommon,Good,801,890,74485
+McLaren,F1,1992,Very Rare,Excellent,756,840,63000
+Alfa,Romeo Spider,1992,Rare,Good,720,800,53190
+Lancia,Delta Integrale,1992,Very Rare,Very Good,801,890,26900
+Toyota,Supra,1998,Rare,Good,657,730,40000
+Nissan,Skyline GTR,1999,Rare,Very Good,675,750,40587
+Honda,Civic,2000,Very Common,Poor,702,780,27000
+Mazda,MX-5,2002,Common,Good,783,870,29108
+Mini,Cooper,2003,Common,Good,774,860,18000
+Subaru,Impreza WRX,2004,Common,Good,801,890,10500
+BMW,M3,2005,Common,Very Good,684,760,60000
+Bugatti,Veyron,2005,Very Rare,Excellent,693,770,61000
+Saab,09-Mar,2007,Uncommon,Good,747,830,5000
+Audi,R8,2008,Uncommon,Excellent,738,820,24001
+Lexus,LS,2010,Common,Good,648,720,76000
+Mercedes,Benz SLS AMG,2010,Rare,Very Good,711,790,56000
+Volkswagen,Golf,2010,Very Common,Good,630,700,30000
+Bentley,Continental GT,2012,Common,Very Good,666,740,44263
+Rolls,Royce Phantom,2012,Rare,Excellent,639,710,97899
+Maserati,Quattroporte,2014,Rare,Good,711,790,157301
+BMW,i8,2014,Rare,Very Good,774,860,135000
+Audi,A4,2015,Common,Good,792,880,35000
+Bentley,Mulsanne,2015,Rare,Excellent,810,900,106000
+Toyota,Corolla,2018,Very Common,Good,657,730,121590
+Volvo,S60,2019,Common,Good,684,760,64692
+Dacia,Sandero,2020,Very Common,Good,720,800,41000
